@@ -1,0 +1,6 @@
+Noah Alharbi
+Assignemt3
+
+This program runs on the class 'MySet'. The class has a default constructor,copy constructor,overloaded constructor which takes an array and an integer as its size.
+Also, I have overloaded the operators (=,+,==,<<,>>) to make them suit our needs.
+I have Used Pointers in this class to make it memory efficient and to make the code easier to handel. I threw few different test cases at the program and they all seemto be giving good results, no bugs to be noted. 
